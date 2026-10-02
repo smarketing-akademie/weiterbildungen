@@ -58,47 +58,47 @@ Dieses Repository enthält das vollständige, strukturierte Kursangebot der **Pr
 | Strategisches Marketing-Management | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/strategisches-marketing-management/) |
 | UX Design & Customer Journey | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/user-experience-ux-customer-journey/) |
 | YouTube Marketing & Videobearbeitung Masterclass | Masterclass | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/youtube-marketing-und-videobearbeitung-masterclass/) |
-| Büromanagement | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Buchführung & Bilanzierung | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Business Development | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| BWL | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Change Management | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Compliance, Datenschutz (DSGVO) & Governance | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Controlling | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Digitale Transformation im Unternehmen | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Einkauf & Supply Chain Management | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| ESG Management | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Finanzierung | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Key Account Management | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Nachhaltiges Management und CSR | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Personalmanagement | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Prozessmanagement, Lean & Six Sigma Basics | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Scrum Master | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Unternehmensführung und Management | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Verhandlungstechniken (Negotiation 4.0) | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Wirtschaftsinformatik | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Brand ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Content-, SEO- & GEO-Marketing Spezialist (m/w/d) | Fokuskurs mit Zertifikat | 3+ Monate | [PDF herunterladen](./kurs-seo-geo-marketing-spezialist.pdf) | [Zur Website](https://smarketing-akademie.de) |
-| Full Stack Digital Marketing ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Growth Marketing ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Head of Online Marketing | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Online Marketing ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Performance Marketing ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| ProjektleiterIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| SEM ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| SEO Experte / Spezialist | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Social Media & KommunikationsmanagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Vertriebs & Sales Excellence ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Automatisierung & KI meistern - No-Code | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| EU AI-Act (KI Literacy) | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| HTML Grundlagen | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| IT-Grundlagen | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| KI Grundlagen für Unternehmen | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| KI-ManagerIn | Berufsbild / Weiterbildung | — | — | [Zur Website](https://smarketing-akademie.de) |
-| KI mit ChatGPT in der Praxis inkl. Prompting - Masterclass | Masterclass | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Microsoft Copilot mit KI | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| Open AI Agent Builder: KI & No Code | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
-| WordPress Grundlagen | Fokuskurs | — | — | [Zur Website](https://smarketing-akademie.de) |
+| Büromanagement | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/bueromanagement/) |
+| Buchführung & Bilanzierung | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/business-development/) |
+| Business Development | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/business-development/) |
+| BWL | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/bwl-betriebswirtschaftslehre/) |
+| Change Management | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/change-management/) |
+| Compliance, Datenschutz (DSGVO) & Governance | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/compliance-datenschutz-und-governance/) |
+| Controlling | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/controlling/) |
+| Digitale Transformation im Unternehmen | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/digitale-transformation-im-unternehmen/)) |
+| Einkauf & Supply Chain Management | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/einkauf-und-supply-chain-management/) |
+| ESG Management | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/esg-management) |
+| Finanzierung | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/finanzierung/) |
+| Key Account Management | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/key-account-management/) |
+| Nachhaltiges Management und CSR | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/nachhaltiges-management-corporate-social-responsibility/) |
+| Personalmanagement | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/personalmanagement-hr-management/) |
+| Prozessmanagement, Lean & Six Sigma Basics | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/business-prozessmanagement-bpm-und-lean-six-sigma-basics/) |
+| Scrum Master | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/scrum-master/) |
+| Unternehmensführung und Management | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/unternehmensfuehrung-und-management/) |
+| Verhandlungstechniken (Negotiation 4.0) | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/verhandlungstechniken-negotiation-4-0/) |
+| Wirtschaftsinformatik | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/wirtschaftsinformatik/) |
+| Brand ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/brand-managerin/) |
+| Content-, SEO- & GEO-Marketing Spezialist (m/w/d) | Weiterbildung, Fernkurs, Fernstudium, Kurs | 3+ Monate | [PDF herunterladen](./kurs-seo-geo-marketing-spezialist.pdf) | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/content-seo-und-geo-marketing-spezialist/) |
+| Full Stack Digital Marketing ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/full-stack-digital-marketing-manager) |
+| Growth Marketing ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/growth-marketing-managerin/) |
+| Head of Online Marketing | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/head-of-online-marketing/) |
+| Online Marketing ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/online-marketing-managerin) |
+| Performance Marketing ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/performance-marketing-managerin/) |
+| ProjektleiterIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/projektleiter/) |
+| SEM ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/sem-managerin/) |
+| SEO Experte / Spezialist | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/seo-spezialist-seo-experte/) |
+| Social Media & KommunikationsmanagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/social-media-and-kommunikationsmanagerin/) |
+| Vertriebs & Sales Excellence ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/sales-manager/) |
+| Automatisierung & KI meistern - No-Code | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/automatisierung-und-ki-meistern-no-code/) |
+| EU AI-Act (KI Literacy) | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/eu-ai-act-grundlagen) |
+| HTML Grundlagen | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/html-grundlagen/) |
+| IT-Grundlagen | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/it-grundlagen/) |
+| KI Grundlagen für Unternehmen | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/ki-fuer-unternehmensanwendungen) |
+| KI-ManagerIn | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/ki-managerin/) |
+| KI mit ChatGPT in der Praxis inkl. Prompting - Masterclass | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/ki-mit-chatgpt-praxis-mit-prompting-masterclass-weiterbildung/) |
+| Microsoft Copilot mit KI | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/microsoft-copilot-effizientes-arbeiten-mit-ki/) |
+| Open AI Agent Builder: KI & No Code | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/fernkurs-openai-agent-builder-ki-und-no-code-automatisierung) |
+| WordPress Grundlagen | Weiterbildung, Fernkurs, Fernstudium, Kurs | — | — | [Zur Website](https://www.smarketing-akademie.de/mooc/onlinekurse/wordpress-grundlagen) |
 
 ## Thematische Schwerpunkte
 
